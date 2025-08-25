@@ -32,10 +32,10 @@ Follow these steps to set up and run the Story Generator on your local machine.
 #### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/Sathvik33/Story_Generator.git](https://github.com/Sathvik33/Story_Generator.git)
+    cd your-Story_Generator
     ```
-    (Replace `your-username/your-repo-name` with your actual repository details).
+    (`Sathvik33/Story_Generator` ).
 2.  **Create a virtual environment** (recommended):
     ```bash
     python -m venv venv
@@ -61,5 +61,5 @@ Follow these steps to set up and run the Story Generator on your local machine.
 ### Contact
 If you have any questions or feedback, feel free to reach out.
 
-* **Your Name** - [Your Email/LinkedIn/GitHub Profile]
+* **Sathvik Reddy** - [marusathvikreddy@gmail.com]
 ---
