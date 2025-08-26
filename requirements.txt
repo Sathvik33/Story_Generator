@@ -1,6 +1,6 @@
-torch==2.4.1
-transformers==4.44.2
-sentencepiece==0.2.0
-sentence-transformers==2.7.0
-streamlit==1.37.1
-numpy==1.26.4
+torch
+transformers
+sentencepiece
+sentence-transformers
+streamlit
+numpy
